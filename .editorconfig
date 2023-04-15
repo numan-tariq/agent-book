@@ -1,0 +1,11 @@
+root=true
+# Rules for all the files
+[*]
+end_of_line = lf
+insert_final_new_line = true
+
+# Rules for the js files
+[*.js]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = true
